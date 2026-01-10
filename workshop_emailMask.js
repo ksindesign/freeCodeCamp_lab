@@ -1,3 +1,5 @@
+//* indexOf(), replace(), slice(), repeat()
+
 // if the email address was myEmail@email.com, then the masked email address will be m*****l@email.com.
 
 const email = 'freecodecamp@example.com';

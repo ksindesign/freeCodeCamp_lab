@@ -1,3 +1,4 @@
+//* Math.sqrt()
 // Declare a function called calculateSquare that takes a num parameter and returns the square of num.
 
 function calculateSquare(num) {
